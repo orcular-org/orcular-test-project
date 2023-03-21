@@ -12,3 +12,4 @@ Test Image:
 
 Test animated GIF:
 
+![animation](https://raw.githubusercontent.com/orcular-org/orcular-test-project/main/Animation.gif)
