@@ -12,4 +12,3 @@ Test Image:
 
 Test animated GIF:
 
-![grafik](https://user-images.githubusercontent.com/123781559/226729676-50b7bda9-61bb-487a-88e8-b7408ea77864.png)
