@@ -3,6 +3,9 @@ orcular-test-project
 
 This is an Orcular test project on GitHub.
 
+### Test Table of contents
+1. [Test paragraph](#anchor1) <-- click!
+
 Test Image:
 
 <!--- comment --->
@@ -20,3 +23,7 @@ Test animated GIF:
 <!--- ![animation](https://raw.githubusercontent.com/orcular-org/orcular-test-project/main/Animation.gif) --->
 
 <img src="https://raw.githubusercontent.com/orcular-org/orcular-test-project/main/Animation.gif" width="500">
+
+## Test paragraph <a name="anchor1"></a>
+
+Test text
