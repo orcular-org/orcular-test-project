@@ -44,10 +44,16 @@ Examples using ```<kbd>TEXT</kbd>``` :
 
 <kbd>A</kbd>
 
-<kbd>Strg</kbd> + <kbd>C</kbd>
+<kbd>⇧ Shift</kbd>
+
+<kbd>⇧</kbd>
+
+<kbd>Ctrl</kbd> + <kbd>C</kbd>
 
 Examples using ```` ```TEXT``` ```` :
 
 ```TEXT```
 
-```Strg``` + ```C```
+```Ctrl``` + ```C```
+
+```⇧```
