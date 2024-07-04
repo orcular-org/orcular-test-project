@@ -48,6 +48,12 @@ Examples using ```<kbd>TEXT</kbd>``` :
 
 <kbd>⇧</kbd>
 
+<kbd>⏎ Enter</kbd>
+
+<kbd>⌫ Delete</kbd>
+
+<kbd>←</kbd>   <kbd>↓</kbd>   <kbd>→</kbd>   <kbd>↑</kbd>
+
 <kbd>Ctrl</kbd> + <kbd>C</kbd>
 
 Examples using ```` ```TEXT``` ```` :
