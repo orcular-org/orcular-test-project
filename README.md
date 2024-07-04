@@ -27,3 +27,27 @@ Test animated GIF:
 ## Test paragraph <a name="anchor1"></a>
 
 Test text
+
+## Keyboard keys
+
+Examples using ```<kbd>TEXT</kbd>``` :
+
+<kbd>TEXT</kbd>
+
+<kbd>Ctrl</kbd>
+
+<kbd>Alt</kbd>
+
+<kbd>Space</kbd>
+
+<kbd>_________</kbd>
+
+<kbd>A</kbd>
+
+<kbd>Strg</kbd> + <kbd>C</kbd>
+
+Examples using ```` ```TEXT``` ```` :
+
+```TEXT```
+
+```Strg``` + ```C```
